@@ -1,0 +1,335 @@
+C:\Users\diego\Desktop\UCR\VII Semestre\Lenguajes para aplicaciones comerciales\Labs\Lab2.2guiado\LabMVC\LabMVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\diego\Desktop\UCR\VII Semestre\Lenguajes para aplicaciones comerciales\Labs\Lab2.2guiado\LabMVC\LabMVC\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\diego\Desktop\UCR\VII Semestre\Lenguajes para aplicaciones comerciales\Labs\Lab2.2guiado\LabMVC\LabMVC\bin\Debug\netcoreapp3.1\LabMVC.exe
+C:\Users\diego\Desktop\UCR\VII Semestre\Lenguajes para aplicaciones comerciales\Labs\Lab2.2guiado\LabMVC\LabMVC\bin\Debug\netcoreapp3.1\LabMVC.deps.json
+C:\Users\diego\Desktop\UCR\VII Semestre\Lenguajes para aplicaciones comerciales\Labs\Lab2.2guiado\LabMVC\LabMVC\bin\Debug\netcoreapp3.1\LabMVC.runtimeconfig.json
+C:\Users\diego\Desktop\UCR\VII Semestre\Lenguajes para aplicaciones comerciales\Labs\Lab2.2guiado\LabMVC\LabMVC\bin\Debug\netcoreapp3.1\LabMVC.runtimeconfig.dev.json
+C:\Users\diego\Desktop\UCR\VII Semestre\Lenguajes para aplicaciones comerciales\Labs\Lab2.2guiado\LabMVC\LabMVC\bin\Debug\netcoreapp3.1\LabMVC.dll
+C:\Users\diego\Desktop\UCR\VII Semestre\Lenguajes para aplicaciones comerciales\Labs\Lab2.2guiado\LabMVC\LabMVC\bin\Debug\netcoreapp3.1\LabMVC.pdb
+C:\Users\diego\Desktop\UCR\VII Semestre\Lenguajes para aplicaciones comerciales\Labs\Lab2.2guiado\LabMVC\LabMVC\bin\Debug\netcoreapp3.1\LabMVC.Views.dll
+C:\Users\diego\Desktop\UCR\VII Semestre\Lenguajes para aplicaciones comerciales\Labs\Lab2.2guiado\LabMVC\LabMVC\bin\Debug\netcoreapp3.1\LabMVC.Views.pdb
+C:\Users\diego\Desktop\UCR\VII Semestre\Lenguajes para aplicaciones comerciales\Labs\Lab2.2guiado\LabMVC\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\UCR\VII Semestre\Lenguajes para aplicaciones comerciales\Labs\Lab2.2guiado\LabMVC\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.AssemblyInfoInputs.cache
+C:\Users\diego\Desktop\UCR\VII Semestre\Lenguajes para aplicaciones comerciales\Labs\Lab2.2guiado\LabMVC\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.AssemblyInfo.cs
+C:\Users\diego\Desktop\UCR\VII Semestre\Lenguajes para aplicaciones comerciales\Labs\Lab2.2guiado\LabMVC\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\UCR\VII Semestre\Lenguajes para aplicaciones comerciales\Labs\Lab2.2guiado\LabMVC\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\diego\Desktop\UCR\VII Semestre\Lenguajes para aplicaciones comerciales\Labs\Lab2.2guiado\LabMVC\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.RazorAssemblyInfo.cache
+C:\Users\diego\Desktop\UCR\VII Semestre\Lenguajes para aplicaciones comerciales\Labs\Lab2.2guiado\LabMVC\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.RazorAssemblyInfo.cs
+C:\Users\diego\Desktop\UCR\VII Semestre\Lenguajes para aplicaciones comerciales\Labs\Lab2.2guiado\LabMVC\LabMVC\obj\Debug\netcoreapp3.1\staticwebassets\LabMVC.StaticWebAssets.Manifest.cache
+C:\Users\diego\Desktop\UCR\VII Semestre\Lenguajes para aplicaciones comerciales\Labs\Lab2.2guiado\LabMVC\LabMVC\obj\Debug\netcoreapp3.1\staticwebassets\LabMVC.StaticWebAssets.xml
+C:\Users\diego\Desktop\UCR\VII Semestre\Lenguajes para aplicaciones comerciales\Labs\Lab2.2guiado\LabMVC\LabMVC\obj\Debug\netcoreapp3.1\scopedcss\bundle\LabMVC.styles.css
+C:\Users\diego\Desktop\UCR\VII Semestre\Lenguajes para aplicaciones comerciales\Labs\Lab2.2guiado\LabMVC\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.TagHelpers.input.cache
+C:\Users\diego\Desktop\UCR\VII Semestre\Lenguajes para aplicaciones comerciales\Labs\Lab2.2guiado\LabMVC\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.TagHelpers.output.cache
+C:\Users\diego\Desktop\UCR\VII Semestre\Lenguajes para aplicaciones comerciales\Labs\Lab2.2guiado\LabMVC\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.RazorCoreGenerate.cache
+C:\Users\diego\Desktop\UCR\VII Semestre\Lenguajes para aplicaciones comerciales\Labs\Lab2.2guiado\LabMVC\LabMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\diego\Desktop\UCR\VII Semestre\Lenguajes para aplicaciones comerciales\Labs\Lab2.2guiado\LabMVC\LabMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\diego\Desktop\UCR\VII Semestre\Lenguajes para aplicaciones comerciales\Labs\Lab2.2guiado\LabMVC\LabMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\diego\Desktop\UCR\VII Semestre\Lenguajes para aplicaciones comerciales\Labs\Lab2.2guiado\LabMVC\LabMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\diego\Desktop\UCR\VII Semestre\Lenguajes para aplicaciones comerciales\Labs\Lab2.2guiado\LabMVC\LabMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\diego\Desktop\UCR\VII Semestre\Lenguajes para aplicaciones comerciales\Labs\Lab2.2guiado\LabMVC\LabMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\diego\Desktop\UCR\VII Semestre\Lenguajes para aplicaciones comerciales\Labs\Lab2.2guiado\LabMVC\LabMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\diego\Desktop\UCR\VII Semestre\Lenguajes para aplicaciones comerciales\Labs\Lab2.2guiado\LabMVC\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.RazorTargetAssemblyInfo.cache
+C:\Users\diego\Desktop\UCR\VII Semestre\Lenguajes para aplicaciones comerciales\Labs\Lab2.2guiado\LabMVC\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.RazorTargetAssemblyInfo.cs
+C:\Users\diego\Desktop\UCR\VII Semestre\Lenguajes para aplicaciones comerciales\Labs\Lab2.2guiado\LabMVC\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.Views.pdb
+C:\Users\diego\Desktop\UCR\VII Semestre\Lenguajes para aplicaciones comerciales\Labs\Lab2.2guiado\LabMVC\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.dll
+C:\Users\diego\Desktop\UCR\VII Semestre\Lenguajes para aplicaciones comerciales\Labs\Lab2.2guiado\LabMVC\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.pdb
+C:\Users\diego\Desktop\UCR\VII Semestre\Lenguajes para aplicaciones comerciales\Labs\Lab2.2guiado\LabMVC\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.genruntimeconfig.cache
+C:\Users\diego\Desktop\UCR\VII Semestre\Lenguajes para aplicaciones comerciales\Labs\Lab2.2guiado\LabMVC\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.csproj.CopyComplete
+C:\Users\Ale\Desktop\LabMVC15-04-21\LabMVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Ale\Desktop\LabMVC15-04-21\LabMVC\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Ale\Desktop\LabMVC15-04-21\LabMVC\bin\Debug\netcoreapp3.1\LabMVC.exe
+C:\Users\Ale\Desktop\LabMVC15-04-21\LabMVC\bin\Debug\netcoreapp3.1\LabMVC.deps.json
+C:\Users\Ale\Desktop\LabMVC15-04-21\LabMVC\bin\Debug\netcoreapp3.1\LabMVC.runtimeconfig.json
+C:\Users\Ale\Desktop\LabMVC15-04-21\LabMVC\bin\Debug\netcoreapp3.1\LabMVC.runtimeconfig.dev.json
+C:\Users\Ale\Desktop\LabMVC15-04-21\LabMVC\bin\Debug\netcoreapp3.1\LabMVC.dll
+C:\Users\Ale\Desktop\LabMVC15-04-21\LabMVC\bin\Debug\netcoreapp3.1\LabMVC.pdb
+C:\Users\Ale\Desktop\LabMVC15-04-21\LabMVC\bin\Debug\netcoreapp3.1\LabMVC.Views.dll
+C:\Users\Ale\Desktop\LabMVC15-04-21\LabMVC\bin\Debug\netcoreapp3.1\LabMVC.Views.pdb
+C:\Users\Ale\Desktop\LabMVC15-04-21\LabMVC\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Ale\Desktop\LabMVC15-04-21\LabMVC\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Ale\Desktop\LabMVC15-04-21\LabMVC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Ale\Desktop\LabMVC15-04-21\LabMVC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Ale\Desktop\LabMVC15-04-21\LabMVC\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ale\Desktop\LabMVC15-04-21\LabMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ale\Desktop\LabMVC15-04-21\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.csprojAssemblyReference.cache
+C:\Users\Ale\Desktop\LabMVC15-04-21\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.AssemblyInfoInputs.cache
+C:\Users\Ale\Desktop\LabMVC15-04-21\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.AssemblyInfo.cs
+C:\Users\Ale\Desktop\LabMVC15-04-21\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.csproj.CoreCompileInputs.cache
+C:\Users\Ale\Desktop\LabMVC15-04-21\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ale\Desktop\LabMVC15-04-21\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.RazorAssemblyInfo.cache
+C:\Users\Ale\Desktop\LabMVC15-04-21\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.RazorAssemblyInfo.cs
+C:\Users\Ale\Desktop\LabMVC15-04-21\LabMVC\obj\Debug\netcoreapp3.1\staticwebassets\LabMVC.StaticWebAssets.Manifest.cache
+C:\Users\Ale\Desktop\LabMVC15-04-21\LabMVC\obj\Debug\netcoreapp3.1\staticwebassets\LabMVC.StaticWebAssets.xml
+C:\Users\Ale\Desktop\LabMVC15-04-21\LabMVC\obj\Debug\netcoreapp3.1\scopedcss\bundle\LabMVC.styles.css
+C:\Users\Ale\Desktop\LabMVC15-04-21\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.TagHelpers.input.cache
+C:\Users\Ale\Desktop\LabMVC15-04-21\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.TagHelpers.output.cache
+C:\Users\Ale\Desktop\LabMVC15-04-21\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.RazorCoreGenerate.cache
+C:\Users\Ale\Desktop\LabMVC15-04-21\LabMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Ale\Desktop\LabMVC15-04-21\LabMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Ale\Desktop\LabMVC15-04-21\LabMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Ale\Desktop\LabMVC15-04-21\LabMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Ale\Desktop\LabMVC15-04-21\LabMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Ale\Desktop\LabMVC15-04-21\LabMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Ale\Desktop\LabMVC15-04-21\LabMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Ale\Desktop\LabMVC15-04-21\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.RazorTargetAssemblyInfo.cache
+C:\Users\Ale\Desktop\LabMVC15-04-21\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.RazorTargetAssemblyInfo.cs
+C:\Users\Ale\Desktop\LabMVC15-04-21\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.Views.pdb
+C:\Users\Ale\Desktop\LabMVC15-04-21\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.csproj.CopyComplete
+C:\Users\Ale\Desktop\LabMVC15-04-21\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.dll
+C:\Users\Ale\Desktop\LabMVC15-04-21\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.pdb
+C:\Users\Ale\Desktop\LabMVC15-04-21\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.genruntimeconfig.cache
+C:\Users\Ale\Desktop\LabMVC22-04-21\LabMVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Ale\Desktop\LabMVC22-04-21\LabMVC\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Ale\Desktop\LabMVC22-04-21\LabMVC\bin\Debug\netcoreapp3.1\LabMVC.exe
+C:\Users\Ale\Desktop\LabMVC22-04-21\LabMVC\bin\Debug\netcoreapp3.1\LabMVC.deps.json
+C:\Users\Ale\Desktop\LabMVC22-04-21\LabMVC\bin\Debug\netcoreapp3.1\LabMVC.runtimeconfig.json
+C:\Users\Ale\Desktop\LabMVC22-04-21\LabMVC\bin\Debug\netcoreapp3.1\LabMVC.runtimeconfig.dev.json
+C:\Users\Ale\Desktop\LabMVC22-04-21\LabMVC\bin\Debug\netcoreapp3.1\LabMVC.dll
+C:\Users\Ale\Desktop\LabMVC22-04-21\LabMVC\bin\Debug\netcoreapp3.1\LabMVC.pdb
+C:\Users\Ale\Desktop\LabMVC22-04-21\LabMVC\bin\Debug\netcoreapp3.1\LabMVC.Views.dll
+C:\Users\Ale\Desktop\LabMVC22-04-21\LabMVC\bin\Debug\netcoreapp3.1\LabMVC.Views.pdb
+C:\Users\Ale\Desktop\LabMVC22-04-21\LabMVC\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Ale\Desktop\LabMVC22-04-21\LabMVC\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Ale\Desktop\LabMVC22-04-21\LabMVC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Ale\Desktop\LabMVC22-04-21\LabMVC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Ale\Desktop\LabMVC22-04-21\LabMVC\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ale\Desktop\LabMVC22-04-21\LabMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ale\Desktop\LabMVC22-04-21\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.csprojAssemblyReference.cache
+C:\Users\Ale\Desktop\LabMVC22-04-21\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.AssemblyInfoInputs.cache
+C:\Users\Ale\Desktop\LabMVC22-04-21\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.AssemblyInfo.cs
+C:\Users\Ale\Desktop\LabMVC22-04-21\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.csproj.CoreCompileInputs.cache
+C:\Users\Ale\Desktop\LabMVC22-04-21\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ale\Desktop\LabMVC22-04-21\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.RazorAssemblyInfo.cache
+C:\Users\Ale\Desktop\LabMVC22-04-21\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.RazorAssemblyInfo.cs
+C:\Users\Ale\Desktop\LabMVC22-04-21\LabMVC\obj\Debug\netcoreapp3.1\staticwebassets\LabMVC.StaticWebAssets.Manifest.cache
+C:\Users\Ale\Desktop\LabMVC22-04-21\LabMVC\obj\Debug\netcoreapp3.1\staticwebassets\LabMVC.StaticWebAssets.xml
+C:\Users\Ale\Desktop\LabMVC22-04-21\LabMVC\obj\Debug\netcoreapp3.1\scopedcss\bundle\LabMVC.styles.css
+C:\Users\Ale\Desktop\LabMVC22-04-21\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.TagHelpers.input.cache
+C:\Users\Ale\Desktop\LabMVC22-04-21\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.TagHelpers.output.cache
+C:\Users\Ale\Desktop\LabMVC22-04-21\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.RazorCoreGenerate.cache
+C:\Users\Ale\Desktop\LabMVC22-04-21\LabMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Ale\Desktop\LabMVC22-04-21\LabMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Ale\Desktop\LabMVC22-04-21\LabMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Ale\Desktop\LabMVC22-04-21\LabMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Ale\Desktop\LabMVC22-04-21\LabMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Ale\Desktop\LabMVC22-04-21\LabMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Ale\Desktop\LabMVC22-04-21\LabMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Ale\Desktop\LabMVC22-04-21\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.RazorTargetAssemblyInfo.cache
+C:\Users\Ale\Desktop\LabMVC22-04-21\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.RazorTargetAssemblyInfo.cs
+C:\Users\Ale\Desktop\LabMVC22-04-21\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.Views.pdb
+C:\Users\Ale\Desktop\LabMVC22-04-21\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.csproj.CopyComplete
+C:\Users\Ale\Desktop\LabMVC22-04-21\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.dll
+C:\Users\Ale\Desktop\LabMVC22-04-21\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.pdb
+C:\Users\Ale\Desktop\LabMVC22-04-21\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.genruntimeconfig.cache
+C:\Users\Ale\Desktop\LabMVC22-04-21\LabMVC\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+C:\Users\Ale\Desktop\LabMVC22-04-21\LabMVC\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+C:\Users\Ale\Desktop\LabMVC22-04-21\LabMVC\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+C:\Users\Ale\Desktop\LabMVC22-04-21\LabMVC\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+C:\Users\Ale\Desktop\LabMVC22-04-21\LabMVC\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+C:\Users\Ale\Desktop\LabMVC22-04-21\LabMVC\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+C:\Users\Ale\Desktop\LabMVC22-04-21\LabMVC\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Users\Ale\Desktop\LabMVC22-04-21\LabMVC\bin\Debug\netcoreapp3.1\Polly.dll
+C:\Users\Ale\Desktop\PL\LabMVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Ale\Desktop\PL\LabMVC\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Ale\Desktop\PL\LabMVC\bin\Debug\netcoreapp3.1\LabMVC.exe
+C:\Users\Ale\Desktop\PL\LabMVC\bin\Debug\netcoreapp3.1\LabMVC.deps.json
+C:\Users\Ale\Desktop\PL\LabMVC\bin\Debug\netcoreapp3.1\LabMVC.runtimeconfig.json
+C:\Users\Ale\Desktop\PL\LabMVC\bin\Debug\netcoreapp3.1\LabMVC.runtimeconfig.dev.json
+C:\Users\Ale\Desktop\PL\LabMVC\bin\Debug\netcoreapp3.1\LabMVC.dll
+C:\Users\Ale\Desktop\PL\LabMVC\bin\Debug\netcoreapp3.1\LabMVC.pdb
+C:\Users\Ale\Desktop\PL\LabMVC\bin\Debug\netcoreapp3.1\LabMVC.Views.dll
+C:\Users\Ale\Desktop\PL\LabMVC\bin\Debug\netcoreapp3.1\LabMVC.Views.pdb
+C:\Users\Ale\Desktop\PL\LabMVC\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+C:\Users\Ale\Desktop\PL\LabMVC\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+C:\Users\Ale\Desktop\PL\LabMVC\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+C:\Users\Ale\Desktop\PL\LabMVC\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+C:\Users\Ale\Desktop\PL\LabMVC\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+C:\Users\Ale\Desktop\PL\LabMVC\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+C:\Users\Ale\Desktop\PL\LabMVC\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Users\Ale\Desktop\PL\LabMVC\bin\Debug\netcoreapp3.1\Polly.dll
+C:\Users\Ale\Desktop\PL\LabMVC\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Ale\Desktop\PL\LabMVC\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Ale\Desktop\PL\LabMVC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Ale\Desktop\PL\LabMVC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Ale\Desktop\PL\LabMVC\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ale\Desktop\PL\LabMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ale\Desktop\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.csprojAssemblyReference.cache
+C:\Users\Ale\Desktop\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.AssemblyInfoInputs.cache
+C:\Users\Ale\Desktop\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.AssemblyInfo.cs
+C:\Users\Ale\Desktop\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.csproj.CoreCompileInputs.cache
+C:\Users\Ale\Desktop\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ale\Desktop\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.RazorAssemblyInfo.cache
+C:\Users\Ale\Desktop\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.RazorAssemblyInfo.cs
+C:\Users\Ale\Desktop\PL\LabMVC\obj\Debug\netcoreapp3.1\staticwebassets\LabMVC.StaticWebAssets.Manifest.cache
+C:\Users\Ale\Desktop\PL\LabMVC\obj\Debug\netcoreapp3.1\staticwebassets\LabMVC.StaticWebAssets.xml
+C:\Users\Ale\Desktop\PL\LabMVC\obj\Debug\netcoreapp3.1\scopedcss\bundle\LabMVC.styles.css
+C:\Users\Ale\Desktop\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.TagHelpers.input.cache
+C:\Users\Ale\Desktop\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.TagHelpers.output.cache
+C:\Users\Ale\Desktop\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.RazorCoreGenerate.cache
+C:\Users\Ale\Desktop\PL\LabMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Ale\Desktop\PL\LabMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Ale\Desktop\PL\LabMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Ale\Desktop\PL\LabMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Ale\Desktop\PL\LabMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Ale\Desktop\PL\LabMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Ale\Desktop\PL\LabMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Ale\Desktop\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.RazorTargetAssemblyInfo.cache
+C:\Users\Ale\Desktop\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.RazorTargetAssemblyInfo.cs
+C:\Users\Ale\Desktop\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.Views.pdb
+C:\Users\Ale\Desktop\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.csproj.CopyComplete
+C:\Users\Ale\Desktop\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.dll
+C:\Users\Ale\Desktop\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.pdb
+C:\Users\Ale\Desktop\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.genruntimeconfig.cache
+C:\source-code\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.dll
+C:\source-code\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.pdb
+C:\source-code\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\source-code\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\appsettings.json
+C:\source-code\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\LabMVC.exe
+C:\source-code\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\LabMVC.deps.json
+C:\source-code\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\LabMVC.runtimeconfig.json
+C:\source-code\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\LabMVC.runtimeconfig.dev.json
+C:\source-code\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\LabMVC.dll
+C:\source-code\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\LabMVC.pdb
+C:\source-code\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\LabMVC.Views.dll
+C:\source-code\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\LabMVC.Views.pdb
+C:\source-code\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+C:\source-code\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+C:\source-code\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+C:\source-code\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+C:\source-code\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+C:\source-code\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+C:\source-code\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\source-code\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\Polly.dll
+C:\source-code\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\source-code\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\source-code\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\source-code\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\source-code\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\source-code\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\source-code\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.csprojAssemblyReference.cache
+C:\source-code\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.AssemblyInfoInputs.cache
+C:\source-code\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.AssemblyInfo.cs
+C:\source-code\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.csproj.CoreCompileInputs.cache
+C:\source-code\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\source-code\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.RazorAssemblyInfo.cache
+C:\source-code\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.RazorAssemblyInfo.cs
+C:\source-code\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\staticwebassets\LabMVC.StaticWebAssets.Manifest.cache
+C:\source-code\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\staticwebassets\LabMVC.StaticWebAssets.xml
+C:\source-code\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\scopedcss\bundle\LabMVC.styles.css
+C:\source-code\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.TagHelpers.input.cache
+C:\source-code\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.TagHelpers.output.cache
+C:\source-code\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.RazorCoreGenerate.cache
+C:\source-code\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\source-code\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\source-code\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\source-code\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\source-code\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\source-code\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\source-code\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\source-code\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.RazorTargetAssemblyInfo.cache
+C:\source-code\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.RazorTargetAssemblyInfo.cs
+C:\source-code\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.Views.pdb
+C:\source-code\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.csproj.CopyComplete
+C:\source-code\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.genruntimeconfig.cache
+C:\source-code\Proyecto-1-IF4101\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\source-code\Proyecto-1-IF4101\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\appsettings.json
+C:\source-code\Proyecto-1-IF4101\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\LabMVC.exe
+C:\source-code\Proyecto-1-IF4101\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\LabMVC.deps.json
+C:\source-code\Proyecto-1-IF4101\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\LabMVC.runtimeconfig.json
+C:\source-code\Proyecto-1-IF4101\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\LabMVC.runtimeconfig.dev.json
+C:\source-code\Proyecto-1-IF4101\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\LabMVC.dll
+C:\source-code\Proyecto-1-IF4101\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\LabMVC.pdb
+C:\source-code\Proyecto-1-IF4101\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\LabMVC.Views.dll
+C:\source-code\Proyecto-1-IF4101\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\LabMVC.Views.pdb
+C:\source-code\Proyecto-1-IF4101\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+C:\source-code\Proyecto-1-IF4101\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+C:\source-code\Proyecto-1-IF4101\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+C:\source-code\Proyecto-1-IF4101\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+C:\source-code\Proyecto-1-IF4101\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+C:\source-code\Proyecto-1-IF4101\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+C:\source-code\Proyecto-1-IF4101\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\source-code\Proyecto-1-IF4101\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\Polly.dll
+C:\source-code\Proyecto-1-IF4101\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\source-code\Proyecto-1-IF4101\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\source-code\Proyecto-1-IF4101\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\source-code\Proyecto-1-IF4101\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\source-code\Proyecto-1-IF4101\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\source-code\Proyecto-1-IF4101\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\source-code\Proyecto-1-IF4101\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.csprojAssemblyReference.cache
+C:\source-code\Proyecto-1-IF4101\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.AssemblyInfoInputs.cache
+C:\source-code\Proyecto-1-IF4101\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.AssemblyInfo.cs
+C:\source-code\Proyecto-1-IF4101\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.csproj.CoreCompileInputs.cache
+C:\source-code\Proyecto-1-IF4101\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\source-code\Proyecto-1-IF4101\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.RazorAssemblyInfo.cache
+C:\source-code\Proyecto-1-IF4101\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.RazorAssemblyInfo.cs
+C:\source-code\Proyecto-1-IF4101\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\staticwebassets\LabMVC.StaticWebAssets.Manifest.cache
+C:\source-code\Proyecto-1-IF4101\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\staticwebassets\LabMVC.StaticWebAssets.xml
+C:\source-code\Proyecto-1-IF4101\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\scopedcss\bundle\LabMVC.styles.css
+C:\source-code\Proyecto-1-IF4101\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.TagHelpers.input.cache
+C:\source-code\Proyecto-1-IF4101\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.TagHelpers.output.cache
+C:\source-code\Proyecto-1-IF4101\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.RazorCoreGenerate.cache
+C:\source-code\Proyecto-1-IF4101\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\source-code\Proyecto-1-IF4101\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\source-code\Proyecto-1-IF4101\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\source-code\Proyecto-1-IF4101\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\source-code\Proyecto-1-IF4101\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\source-code\Proyecto-1-IF4101\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\source-code\Proyecto-1-IF4101\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\source-code\Proyecto-1-IF4101\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.RazorTargetAssemblyInfo.cache
+C:\source-code\Proyecto-1-IF4101\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.RazorTargetAssemblyInfo.cs
+C:\source-code\Proyecto-1-IF4101\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.Views.pdb
+C:\source-code\Proyecto-1-IF4101\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.csproj.CopyComplete
+C:\source-code\Proyecto-1-IF4101\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.dll
+C:\source-code\Proyecto-1-IF4101\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.pdb
+C:\source-code\Proyecto-1-IF4101\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.genruntimeconfig.cache
+C:\Proy1Len\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Proy1Len\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Proy1Len\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\LabMVC.exe
+C:\Proy1Len\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\LabMVC.deps.json
+C:\Proy1Len\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\LabMVC.runtimeconfig.json
+C:\Proy1Len\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\LabMVC.runtimeconfig.dev.json
+C:\Proy1Len\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\LabMVC.dll
+C:\Proy1Len\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\LabMVC.pdb
+C:\Proy1Len\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\LabMVC.Views.dll
+C:\Proy1Len\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\LabMVC.Views.pdb
+C:\Proy1Len\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+C:\Proy1Len\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+C:\Proy1Len\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+C:\Proy1Len\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+C:\Proy1Len\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+C:\Proy1Len\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+C:\Proy1Len\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Proy1Len\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\Polly.dll
+C:\Proy1Len\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Proy1Len\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Proy1Len\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Proy1Len\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Proy1Len\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Proy1Len\Proyecto-1-IF4101\PL\LabMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Proy1Len\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.AssemblyInfoInputs.cache
+C:\Proy1Len\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.AssemblyInfo.cs
+C:\Proy1Len\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.csproj.CoreCompileInputs.cache
+C:\Proy1Len\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Proy1Len\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.RazorAssemblyInfo.cache
+C:\Proy1Len\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.RazorAssemblyInfo.cs
+C:\Proy1Len\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\staticwebassets\LabMVC.StaticWebAssets.Manifest.cache
+C:\Proy1Len\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\staticwebassets\LabMVC.StaticWebAssets.xml
+C:\Proy1Len\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\scopedcss\bundle\LabMVC.styles.css
+C:\Proy1Len\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.TagHelpers.input.cache
+C:\Proy1Len\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.TagHelpers.output.cache
+C:\Proy1Len\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.RazorCoreGenerate.cache
+C:\Proy1Len\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Proy1Len\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Proy1Len\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Proy1Len\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Proy1Len\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Proy1Len\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Proy1Len\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Proy1Len\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.RazorTargetAssemblyInfo.cache
+C:\Proy1Len\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.RazorTargetAssemblyInfo.cs
+C:\Proy1Len\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.Views.pdb
+C:\Proy1Len\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.csproj.CopyComplete
+C:\Proy1Len\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.dll
+C:\Proy1Len\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.pdb
+C:\Proy1Len\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.genruntimeconfig.cache
+C:\Proy1Len\Proyecto-1-IF4101\PL\LabMVC\obj\Debug\netcoreapp3.1\LabMVC.csprojAssemblyReference.cache
